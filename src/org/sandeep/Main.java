@@ -1,26 +1,12 @@
 package org.sandeep;
 
-import org.sandeep.array.ReadingNewspaper;
-import org.sandeep.array.SetMatrixZero;
-
-import java.util.ArrayList;
-import java.util.Scanner;
+import org.sandeep.array.NextPermutation;
 
 public class Main {
 
     public static void main(String[] args) {
-        SetMatrixZero b = new SetMatrixZero();
-        Scanner sc = new Scanner(System.in);
-        ArrayList<ArrayList<Integer>> arr = new ArrayList<>(4);
-        for(int i=0;i<4;i++){
-            ArrayList<Integer> list = new ArrayList<>();
-            for(int j=0;j<4;j++){
-                int val = sc.nextInt();
-                list.add(j,val);
-            }
-            arr.add(i, list);
-        }
-        System.out.println(arr);
-        b.setZeroes(arr);
+        int[] A = {251, 844, 767, 778, 658, 337, 10, 252, 632, 262, 707, 506, 701, 475, 410, 696, 631, 903, 516, 149, 344, 101, 42, 891, 991};
+        NextPermutation n = new NextPermutation();
+        n.nextPermutation(A);
     }
 }

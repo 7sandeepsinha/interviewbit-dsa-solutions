@@ -1,67 +1,40 @@
 package org.sandeep.array;
 
-import java.util.ArrayList;
-
 public class SetMatrixZero {
-    public void setZeroes(ArrayList<ArrayList<Integer>> A) {
-        int m, n;
-
-        if (A == null)
-            return;
-
-        m = A.size();
-        n = A.get(0).size();
-
-        if (n == 0)
-            return;
-
-        for (int i = 0; i < m; i++) {
-            boolean zero = false;
-            for (int j = 0; j < n; j++) {
-                if (A.get(i).get(j) == 0)
-                    zero = true;
-            }
-
-            if (zero)
-                clearRow(A, i, m, n, 2);
-
-        }
-
-        for (int i = 0; i < n; i++) {
-            boolean zero = false;
-            for (int j = 0; j < m; j++) {
-                if (A.get(j).get(i) == 0)
-                    zero = true;
-            }
-
-            if (zero)
-                clearCol(A, i, m, n, 2);
-
-        }
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (A.get(i).get(j) == 2)
-                    A.get(i).set(j, 0);
+    /**
+     * https://www.interviewbit.com/problems/set-matrix-zeros/
+     * @param matrix
+     */
+    public void setZeroes(int[][] matrix) {
+        boolean fr = false,fc = false;
+        for(int i = 0; i < matrix.length; i++) {
+            for(int j = 0; j < matrix[0].length; j++) {
+                if(matrix[i][j] == 0) {
+                    if(i == 0) fr = true;
+                    if(j == 0) fc = true;
+                    matrix[0][j] = 0;
+                    matrix[i][0] = 0;
+                }
             }
         }
-        System.out.println(A);
-    }
-
-
-    public void clearRow(ArrayList<ArrayList<Integer>> A, int row, int m, int n, int value) {
-
-        for (int i = 0; i < n; i++) {
-            if (A.get(row).get(i) == 1)
-                A.get(row).set(i, value);
+        for(int i = 1; i < matrix.length; i++) {
+            for(int j = 1; j < matrix[0].length; j++) {
+                if(matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
+                }
+            }
         }
-    }
-
-    public void clearCol(ArrayList<ArrayList<Integer>> A, int col, int m, int n, int value) {
-        for (int i = 0; i < m; i++) {
-            if (A.get(i).get(col) == 1)
-                A.get(i).set(col, value);
+        if(fr) {
+            for(int j = 0; j < matrix[0].length; j++) {
+                matrix[0][j] = 0;
+            }
         }
+        if(fc) {
+            for(int i = 0; i < matrix.length; i++) {
+                matrix[i][0] = 0;
+            }
+        }
+
     }
 
 }
