@@ -1,0 +1,7 @@
+
+
+java:S4165""_Remove this useless assignment; "A" already holds the assigned value along all execution paths.(–‰Òşÿÿÿÿ8ŞÙ€‘Ÿ/
+|
+java:S4165"_Remove this useless assignment; "A" already holds the assigned value along all execution paths.(Ü€¶ó8ŞÙ€‘Ÿ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÂßÙıÿÿÿÿ8ŞÙ€‘Ÿ/
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®±ƒÍÿÿÿÿÿ8ŞÙ€‘Ÿ/

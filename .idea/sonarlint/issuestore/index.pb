@@ -5,3 +5,15 @@ X
 (src/org/sandeep/array/SetMatrixZero.java,a/5/a56b649861accbdd3323d01bbdcdd34b9f1241ef
 ^
 .src/org/sandeep/array/BeggarOutsideTemple.java,e/6/e607588558929107f5965a9974c948194f2bc7a7
+Z
+*src/org/sandeep/array/NextPermutation.java,a/b/ab61f302a2bd052c19d1444d8e9d52e2b4c36cb8
+X
+(src/org/sandeep/array/TwoSumProblem.java,2/5/252f3ef56db6b3b9b418ecba54e88da6e3343d78
+Y
+)src/org/sandeep/maths/ReverseInteger.java,c/8/c8480e60cf85d5f5d1597e509e9bdd6431e4e008
+\
+,src/org/sandeep/maths/IntegerPalindrome.java,1/1/11dd1e1d5448743680c628e5e2adcb54db2dadcc
+a
+1src/org/sandeep/array/LongestConsecutiveOnes.java,e/7/e7b60c0945486500593aeb1821ec60d9baf20575
+]
+-src/org/sandeep/array/FindMissingInteger.java,2/3/231eb910feb2cfbca01987bf995c5a6c7b746f3b

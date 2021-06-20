@@ -1,0 +1,6 @@
+
+‚
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(¯Ù¢â
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ù¢â
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(Ð¼ÛÈ
