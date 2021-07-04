@@ -1,6 +1,5 @@
 
-r	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä·–ÿÿÿÿÿ8Á‘ê¡/
-^
-java:S1128"ARemove this unused import 'org.sandeep.array.FindMissingInteger'.(ã¤©÷8Á‘ê¡/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8Á‘ê¡/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ø‹à¸ÿÿÿÿÿ8¸ÿĞ“¦/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø‹à¸ÿÿÿÿÿ8¸ÿĞ“¦/

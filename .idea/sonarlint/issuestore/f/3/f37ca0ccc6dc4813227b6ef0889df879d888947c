@@ -1,0 +1,19 @@
+
+A
+java:S1659"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ8ìŠíŸ¤/
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(ù¤º°ıÿÿÿÿ8ìŠíŸ¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£‹Õøÿÿÿÿ8ìŠíŸ¤/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÆ’«
+Y
+java:S1854"7Remove this useless assignment to local variable "max".(–¥†ıûÿÿÿÿ8ìŠíŸ¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£‹Õøÿÿÿÿ8ìŠíŸ¤/
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(òÍ¯Š8ìŠíŸ¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£‹Õøÿÿÿÿ8ìŠíŸ¤/
+T
+java:S1854"7Remove this useless assignment to local variable "min".(×ÉåÌ8ìŠíŸ¤/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ö£‹Õøÿÿÿÿ8ìŠíŸ¤/
+A
+java:S1659"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ8ìŠíŸ¤/

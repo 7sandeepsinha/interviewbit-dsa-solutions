@@ -1,0 +1,16 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğÿÃûÿÿÿÿ8—áù ¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğÿÃûÿÿÿÿ8—áù ¤/
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÈå¦8Æï‰¡¤/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÆ’«
+?
+java:S1659""Declare "valB" on a separate line.(ê·şˆ8Æï‰¡¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‹ŸÙÿÿÿÿÿ8—áù ¤/
+?
+java:S1659""Declare "valC" on a separate line.(ê·şˆ8Æï‰¡¤/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(÷ğÿÃûÿÿÿÿ8—áù ¤/
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û§Ì8—áù ¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğÿÃûÿÿÿÿ8—áù ¤/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğÿÃûÿÿÿÿ8—áù ¤/

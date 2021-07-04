@@ -1,0 +1,13 @@
+
+[
+java:S2251#"9"i" is incremented and will never reach "stop condition".(±Ò¡°ùÿÿÿÿ8›‘Û ¢/
+
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ø‹ª©8›‘Û ¢/
+D
+java:S2189#""Correct this loop's end condition.(±Ò¡°ùÿÿÿÿ8›‘Û ¢/
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‹ª©8›‘Û ¢/
+‰
+java:S1319
+"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(ø‹ª©8›‘Û ¢/
