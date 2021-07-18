@@ -1,0 +1,19 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š½öØûÿÿÿÿ8Àé‘©/
+“
+java:S1319	"qThe type of the "source" object should be an interface such as "List" rather than the implementation "ArrayList".(É¢àäúÿÿÿÿ8Àé‘©/
+N
+java:S1128"1Remove this unused import 'org.sandeep.PairData'.(•Š¬«8ÿÀ™‘©/
+‘
+java:S1319	"oThe type of the "dest" object should be an interface such as "List" rather than the implementation "ArrayList".(É¢àäúÿÿÿÿ8Àé‘©/
+–
+java:S1319"tThe type of the "fromTower" object should be an interface such as "List" rather than the implementation "ArrayList".(Ğõ¿ªüÿÿÿÿ8Àé‘©/
+w
+java:S2234"[Parameters to moveDisks have the same names but not the same order as the method arguments.(Øãğ|8Àé‘©/
+“
+java:S1319	"qThe type of the "buffer" object should be an interface such as "List" rather than the implementation "ArrayList".(É¢àäúÿÿÿÿ8Àé‘©/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¹ºÓÇ8ı£ñ©/
+}
+java:S2234"[Parameters to moveDisks have the same names but not the same order as the method arguments.(ïúĞ‚üÿÿÿÿ8Àé‘©/
+”
+java:S1319"rThe type of the "toTower" object should be an interface such as "List" rather than the implementation "ArrayList".(Ğõ¿ªüÿÿÿÿ8Àé‘©/

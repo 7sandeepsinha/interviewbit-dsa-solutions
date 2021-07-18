@@ -1,0 +1,16 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€İ·«üÿÿÿÿ8„ à’©/
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(îê‹³8„ à’©/
+‰
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(îê‹³8„ à’©/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡…”„ùÿÿÿÿ8„ à’©/
+\
+java:S1854":Remove this useless assignment to local variable "result".(‡…”„ùÿÿÿÿ8„ à’©/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ëÔÍà8“ôê’©/
+
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(€İ·«üÿÿÿÿ8„ à’©/
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(€İ·«üÿÿÿÿ8„ à’©/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îê‹³8„ à’©/
