@@ -1,0 +1,7 @@
+
+‰
+java:S1319	"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(µíŠó8ô³§¼¯/
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µíŠó8Ã ¥¼¯/
+J
+java:S1604
+"(Make this anonymous inner class a lambda(Ý×íÀüÿÿÿÿ8ô³§¼¯/

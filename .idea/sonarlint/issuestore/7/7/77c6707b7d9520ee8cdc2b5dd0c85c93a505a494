@@ -1,0 +1,14 @@
+
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ĞŒ­ˆ8ãäÓ¯/
+F
+java:S14810")Remove this unused "tail" local variable.(¿Õè¡8Óğ×¯/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÓ ù
+[
+java:S1854
+"9Remove this useless assignment to local variable "lastS".(Ï×ö“ıÿÿÿÿ8Óğ×¯/
+U
+java:S18540"8Remove this useless assignment to local variable "tail".(¿Õè¡8Óğ×¯/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¬ˆæıÿÿÿÿ8Óğ×¯/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¬ˆæıÿÿÿÿ8Óğ×¯/
+[
+java:S1854	"9Remove this useless assignment to local variable "lastF".(¤Ëıßşÿÿÿÿ8Óğ×¯/

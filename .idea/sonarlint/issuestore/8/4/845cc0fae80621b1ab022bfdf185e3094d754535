@@ -1,0 +1,10 @@
+
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Ÿ˜“¹8Ÿµ¦¡¯/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÓ ù
+`
+java:S2259"CA "NullPointerException" could be thrown; "start" is nullable here.(ƒà¹Ã8«À¥¡¯/
+d
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(Âÿ‡Ûþÿÿÿÿ8«À¥¡¯/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„òÐ´þÿÿÿÿ8«À¥¡¯/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„òÐ´þÿÿÿÿ8«À¥¡¯/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„òÐ´þÿÿÿÿ8«À¥¡¯/
