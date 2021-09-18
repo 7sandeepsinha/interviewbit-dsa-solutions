@@ -1,0 +1,6 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Åò8ö³ä¬¸/
+r
+java:S3008"URename this field "global_max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İİ›Î8ĞíÇ­¸/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÒÉÑıÿÿÿÿ8ö³ä¬¸/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹öü¨

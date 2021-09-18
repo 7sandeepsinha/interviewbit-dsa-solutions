@@ -1,0 +1,8 @@
+
+`
+java:S2583/"CChange this condition so that it does not always evaluate to "true"(Úì‘À8Á¼¦¯¸/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹öü¨
+Q
+java:S1066"/Merge this if statement with the enclosing one.(¼´úÍüÿÿÿÿ8ãŠ¯¸/
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(†ÙŞ@8ãŠ¯¸/

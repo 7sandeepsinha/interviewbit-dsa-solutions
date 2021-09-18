@@ -1,0 +1,10 @@
+
+W
+java:S1128"5Remove this unused import 'com.sun.source.tree.Tree'.(·óƒüýÿÿÿÿ8šš¤ã·/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹öü¨
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(·óƒüýÿÿÿÿ8šš¤ã·/
+v
+java:S3008	"TRename this field "max_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú§ÞÁùÿÿÿÿ8’‡”ã·/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(é·Ý»8üËÿâ·/

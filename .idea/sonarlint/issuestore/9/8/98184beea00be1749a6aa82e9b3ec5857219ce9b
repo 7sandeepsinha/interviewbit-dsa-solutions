@@ -1,20 +1,20 @@
 
-S
-java:S1197E"8Move the array designator from the variable to the type.(àÙ£‚ûÿÿÿÿ
-S
-java:S1854b"8Remove this useless assignment to local variable "sum2".(îÖáÎüÿÿÿÿ
-S
-java:S1197"8Move the array designator from the variable to the type.(Èä¡ûÿÿÿÿ
-S	java:S106l"9Replace this use of System.out or System.err by a logger.(×î…¾ÿÿÿÿÿ
-V	java:S125}"<This block of commented-out lines of code should be removed.(‘ÈşÄûÿÿÿÿ
-I
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
 N
 java:S1197"8Move the array designator from the variable to the type.(û³€
-:
-java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+S
+java:S1854b"8Remove this useless assignment to local variable "sum2".(îÖáÎüÿÿÿÿ
+D
+java:S1481b")Remove this unused "sum2" local variable.(îÖáÎüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(×î…¾ÿÿÿÿÿ
+S
+java:S1197E"8Move the array designator from the variable to the type.(àÙ£‚ûÿÿÿÿ
 N
 java:S1197D"8Move the array designator from the variable to the type.(ë×À¥
 S	java:S106f"9Replace this use of System.out or System.err by a logger.(¶·¶”şÿÿÿÿ
-D
-java:S1481b")Remove this unused "sum2" local variable.(îÖáÎüÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(‘ÈşÄûÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(Èä¡ûÿÿÿÿ
+:
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ

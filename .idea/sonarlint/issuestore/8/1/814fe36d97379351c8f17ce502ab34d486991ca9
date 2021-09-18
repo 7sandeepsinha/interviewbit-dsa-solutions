@@ -1,0 +1,15 @@
+
+F
+java:S1659 "$Declare "second" on a separate line.(¥Õóùÿÿÿÿ8»±‡´¼/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à—¬üÿÿÿÿ8»±‡´¼/
+U
+java:S1854="8Remove this useless assignment to local variable "arr2".(îºˆ¾8ãş‹´¼/
+U
+java:S1197"8Move the array designator from the variable to the type.(Ö¶ç®8»±‡´¼/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç‘¹¿úÿÿÿÿ
+F
+java:S1481=")Remove this unused "arr2" local variable.(îºˆ¾8ãş‹´¼/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤•ˆ³8í¥İ³¼/
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥›à®ûÿÿÿÿ8í¥İ³¼/
+
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(à—¬üÿÿÿÿ8»±‡´¼/

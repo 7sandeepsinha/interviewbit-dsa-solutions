@@ -269,6 +269,25 @@ public class TreeTraversals {
         return curr;
     }
 
+    public static void levelOrderTraversal(TreeNode root){
+        if(root == null){
+            return;
+        }
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        while(!q.isEmpty()){
+            TreeNode curr = q.poll();
+            System.out.print(curr.data + " ");
+            if(curr.left != null){
+                q.add(curr.left);
+            }
+            if(curr.right != null){
+                q.add(curr.right);
+            }
+        }
+    }
+
 
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
@@ -284,8 +303,7 @@ public class TreeTraversals {
         root.right.right.left = new TreeNode(11);
         root.right.right.right = new TreeNode(12);
 
-
-       inOrderRecursive(root);
+        levelOrderTraversal(root);
 
 
     }
